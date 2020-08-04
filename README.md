@@ -1,4 +1,4 @@
-# Wander-Maps
+# Wander-Maps-Android
 
 [Petunjuk Penggunaan]
 
